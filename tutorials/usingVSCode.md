@@ -26,3 +26,5 @@ After this you can open your project.
 ### Version Control through VSCode
 
 VSCode has built-in Git support. This can be opened on the left side of the VSCode window under Source Control menu or with the `Ctrl+Shift+G` keybind. Here you can stage your changes, add a commit message, pull, push, clone, checkout another branch, and do many other things. In order to push to the remote GitHub repository you need to have access, but this can be done easily by signing it GitHub through VSCode. To see additional help regarding Git and version control see [Version Control](/tutorials/git.md).
+
+**Note:** make sure to delete output cells before pushing and merging to GitHub. This can be done with `Alt+Delete` or by using `...` next to the Code cell.
