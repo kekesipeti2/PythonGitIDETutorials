@@ -7,9 +7,9 @@ Python has a rich **package** library, therefore it is recommended to create sep
 The recommended environment and package handling software for Python is [Anaconda](https://www.anaconda.com/products/individual).
 After installing Anaconda you can open Anaconda Navigator and create a new environment. 
 
- 1. Head to Environments menu.
- 2. Click on Create.
- 3. Enter an Environment name and click on Create. Make sure to select a Python version above 3.0, because there is no backwards compatibility to Python 2.
+ 1. Head to `Environments` menu.
+ 2. Click on `Create`.
+ 3. Enter an Environment name and click on `Create`. Make sure to select a Python version above 3.0, because there is no backwards compatibility to Python 2.
 
 ![Anaconda environments](/tutorials/imgs/img1.jpg)
 
