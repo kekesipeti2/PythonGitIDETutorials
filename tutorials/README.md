@@ -9,4 +9,5 @@ There are **two paths** to running your scripts:
 	- [Using VSCode](/tutorials/usingVSCode.md).
 	 - [Using Jupyter Notebook](/tutorials/jupyternotebook.md).
 
-To know what you need to "Version Control" exactly and how to do it head to the [Version Control](/tutorials/git.md) tutorial. Using Git can be done through VSCode's built-in Source Control panel (see above) or a Git software, eg. GitExtensions.
+To know what you need to "Version Control" exactly and how to do it head to the [Version Control](/tutorials/git.md) tutorial. Using Git can be done through VSCode's built-in Source Control panel (see above) or a Git software, eg. [GitExtensions](http://gitextensions.github.io/). 
+For the latter you can find tutorials online, for example: [GitExtensions Tutorial](https://bytescout.com/blog/beginner-guide-to-git-on-windows-using-git-extensions) - you don't have to mess around with SSH keys, there is a GitHub menu on GitExtensions, which will help you authorize your GitHub.
